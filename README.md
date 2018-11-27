@@ -11,6 +11,8 @@
 Hi there! I'm Alicia, a third year studying Computer Science and Math at Queen's University, Canada 👋
 
 Projects👩‍💻
+
+
 [Software Architecture Analysis](https://sushioverflow.github.io/)
 •  Analyzed and proposed improvements on the architecture of the open-source Chromium project using Scitools Understand and a minified version of the Chromium source code.
 • Proposed and implemented a new feature for Chromium called ‘AutoScheduler’ using C++ that is designed for people with busy schedules or impaired memory to automate their day-to-day tasks in the browser.
