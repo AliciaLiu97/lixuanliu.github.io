@@ -27,6 +27,9 @@ Hi there! I'm Alicia, a third year studying Computer Science and Math at Queen's
 
 • Proposed and implemented a new feature for Chromium called ‘AutoScheduler’ using C++ that is designed for people with busy schedules or impaired memory to automate their day-to-day tasks in the browser.
 
+Online Ordering System
+
+•  Built an online pizza order system with a GUI interface using Java and JavaFX. This system provides the functionality for customers to place their orders with full customization. 
 
 <style>
   h1 a {display: none;}
