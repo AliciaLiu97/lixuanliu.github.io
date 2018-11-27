@@ -11,4 +11,4 @@
 Hi there! I'm Alicia, a third year studying computer science and math at Queen's University, Canada 👋
 
 You can reach me at [lixuan.liu@queensu.ca](mailto:lixuan.liu@queensu.ca) or peep me at 
-[resume](https://drive.google.com/drive/my-drive) // [linkedin](https://www.linkedin.com/in/alicia-lixuan-liu/) // [github](https://github.com/AliciaLiu97)
+[resume](https://drive.google.com/file/d/1tTzmNKvY0w7DfjFezc6c7wmiFFOFBqU-/view?usp=sharing) // [linkedin](https://www.linkedin.com/in/alicia-lixuan-liu/) // [github](https://github.com/AliciaLiu97)
