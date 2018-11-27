@@ -10,7 +10,7 @@
 
 Hi there! I'm Alicia, a third year studying Computer Science and Math at Queen's University, Canada 👋
 
-Projects👩‍💻
+# Projects👩‍💻
 
 
 [Software Architecture Analysis](https://sushioverflow.github.io/)
