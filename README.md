@@ -12,7 +12,7 @@ Hi there! I'm Alicia, a third year studying Computer Science and Math at Queen's
 
 <style>
   h1 a {display: none;}
-  .container-lg {min-width: 200px; max-width: 680px; padding: 45px;}
+  .container-lg {min-width: 100px; max-width: 580px; padding: 35px;}
   h1 {font-style: bold;}
   h3,h4,h5,h6,p {line-height: 1.8em;}
   a {color: #7100FF}
@@ -30,7 +30,7 @@ Hi there! I'm Alicia, a third year studying Computer Science and Math at Queen's
 
 <style>
   h1 a {display: none;}
-  .container-lg {min-width: 200px; max-width: 680px; padding: 45px;}
+  .container-lg {min-width: 100px; max-width: 580px; padding: 35px;}
   h1 {font-style: bold;}
   h3,h4,h5,h6,p {line-height: 1.8em;}
   a {color: #7100FF}
